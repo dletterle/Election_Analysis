@@ -8,7 +8,7 @@ The purpose of this election audit analysis is to provide the Colorado Board of 
   **Election-Audit Results**
     
 *   There were 369,711 votes cast in the congressional election
-*   In the three counties the results are as follows: 
+*   For the three counties the results are as follows: 
     *    Jefferson recieved 38,855 votes which is 10.5% of the vote 
     *    Denver received 306,055 votes which is 82.8% of the vote
     *    Arapahoe received 24,601 votes which is 6.7% of the vote 
@@ -21,4 +21,7 @@ The purpose of this election audit analysis is to provide the Colorado Board of 
 
 * Diana DeGette was the winner of the election with 272,892 votes which is 73.8% of the vote
 
+**Election-Audit Summary**
 
+This script with some modifications can be used for any election. For an obvious example, simply changing the county names would allow this script to run for every county, in not just Colorado, but any county level election race or any state election race. 
+This script could also be modified to include variables of time. Time would allow for tracking and trend analysis. For example, if this data was collected for these counties in 2021 an analysis could be done to track voter turnout in previous years and previous counties. 
