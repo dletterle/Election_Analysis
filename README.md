@@ -23,6 +23,7 @@ The purpose of this election audit analysis is to provide the Colorado Board of 
 
 <img width="312" alt="Election_Results_vs png" src="https://user-images.githubusercontent.com/99268646/157442069-0732c3d3-7d05-4d4c-80d3-0c578c7739be.png">
 
+[Election_Results.txt](https://github.com/dletterle/Election_Analysis/files/8214666/Election_Results.txt)
 
 **Election-Audit Summary**
 
