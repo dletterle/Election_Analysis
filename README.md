@@ -21,6 +21,9 @@ The purpose of this election audit analysis is to provide the Colorado Board of 
 
 * Diana DeGette was the winner of the election with 272,892 votes which is 73.8% of the vote
 
+<img width="312" alt="Election_Results_vs png" src="https://user-images.githubusercontent.com/99268646/157442069-0732c3d3-7d05-4d4c-80d3-0c578c7739be.png">
+
+
 **Election-Audit Summary**
 
 This script with some modifications can be used for any election. For an obvious example, simply changing the county names would allow this script to run for every county, in not just Colorado, but any county level election race or any state election race. 
